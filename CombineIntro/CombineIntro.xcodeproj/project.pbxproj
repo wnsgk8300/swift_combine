@@ -17,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		4BE814442952EB7F00A458BD /* MyPlayground.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = MyPlayground.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		4BEF00F8294BFF7600E0946D /* CombineIntro.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CombineIntro.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		4BEF00FB294BFF7600E0946D /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		4BEF00FD294BFF7600E0946D /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -61,6 +62,7 @@
 				4BEF00FB294BFF7600E0946D /* AppDelegate.swift */,
 				4BEF00FD294BFF7600E0946D /* SceneDelegate.swift */,
 				4BEF00FF294BFF7600E0946D /* ViewController.swift */,
+				4BE814442952EB7F00A458BD /* MyPlayground.playground */,
 				4BEF0101294BFF7600E0946D /* Main.storyboard */,
 				4BEF0104294BFF7700E0946D /* Assets.xcassets */,
 				4BEF0106294BFF7700E0946D /* LaunchScreen.storyboard */,

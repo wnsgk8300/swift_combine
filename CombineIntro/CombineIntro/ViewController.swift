@@ -8,6 +8,10 @@
 import Combine
 import UIKit
 
+// Publisher: 이벤트를 보낸다.
+// Subscriber: Publisher를 구독한다.
+
+
 class MyCustomTableViewCell: UITableViewCell {
     private let button: UIButton = {
         let button = UIButton()
@@ -17,7 +21,7 @@ class MyCustomTableViewCell: UITableViewCell {
         return button
     }()
     
-    let action = PassthroughSubject<>
+//    let action = PassthroughSubject<> 
     
     override init(style: UITableViewCell.CellStyle, reuseIdentifier: String?) {
         super.init(style: style, reuseIdentifier: reuseIdentifier)
